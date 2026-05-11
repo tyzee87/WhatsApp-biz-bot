@@ -1,0 +1,17 @@
+{
+  "name": "funditekniq-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Business AI chatbot for Funditekniq Building Stone Supply",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
