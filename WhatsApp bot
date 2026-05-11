@@ -1,5 +1,5 @@
 WHATSAPP_TOKEN    = EAAMWLU3jmAoBRWnmiLDb1hT13RZA40l14S2ZCbZCYAtnuPAeu2Nsg8GBBMXlElGKJFkxTG3zITHFZB3QiZAynn9NejUPnvtSOFdWCzHXigeNizn1TfYn5dTxvZBixZBG9lvpOynndKBsMJRvJMvOOaR3wFPjPhbcD1srorcipyB4nx53ef3zdy3JDVkUESkXAgZBlFhYozVokrqnU0aQmMSBQtPZCL5uVlCT7QDXXi32K2FKna4DaN25OVgZDZD
-PHONE_NUMBER_ID   = your phone number ID from Step 1
+PHONE_NUMBER_ID   = 1129802433546975
 VERIFY_TOKEN      = funditekniq_verify_token
 ANTHROPIC_API_KEY = your key from console.anthropic.com
 PORT              = 3000
