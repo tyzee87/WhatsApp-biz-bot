@@ -1,0 +1,5 @@
+WHATSAPP_TOKEN    = your permanent token from Step 1
+PHONE_NUMBER_ID   = your phone number ID from Step 1
+VERIFY_TOKEN      = funditekniq_verify_token
+ANTHROPIC_API_KEY = your key from console.anthropic.com
+PORT              = 3000
